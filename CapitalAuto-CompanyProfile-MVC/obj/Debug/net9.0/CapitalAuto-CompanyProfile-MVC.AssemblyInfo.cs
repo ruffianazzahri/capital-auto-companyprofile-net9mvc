@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapitalAuto-CompanyProfile-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc62d3dd99bef38246f4b7078c37198f4dbf19c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapitalAuto-CompanyProfile-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapitalAuto-CompanyProfile-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
