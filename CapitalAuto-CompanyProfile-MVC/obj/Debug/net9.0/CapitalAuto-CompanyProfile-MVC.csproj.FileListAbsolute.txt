@@ -22,7 +22,6 @@ C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\C
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\scopedcss\bundle\CapitalAuto-CompanyProfile-MVC.styles.css
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\scopedcss\projectbundle\CapitalAuto-CompanyProfile-MVC.bundle.scp.css
-C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\compressed\qtecb29y0q-b9sayid5wm.gz
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\compressed\byn9x8s34a-61n19gt1b8.gz
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\compressed\jpxnarsh9d-xtxxf3hu2r.gz
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\compressed\wmmhn28v06-bqjiyaj88i.gz
@@ -96,3 +95,4 @@ C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\C
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\CapitalAuto-CompanyProfile-MVC.pdb
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\CapitalAuto-CompanyProfile-MVC.genruntimeconfig.cache
 C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\ref\CapitalAuto-CompanyProfile-MVC.dll
+C:\Users\Zephyrus G14\OneDrive\Documents\github\CapitalAuto-CompanyProfile-MVC\CapitalAuto-CompanyProfile-MVC\obj\Debug\net9.0\compressed\qtecb29y0q-oi6gzqv4mo.gz
